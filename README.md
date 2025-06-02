@@ -1,23 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
-<p align="left">My name is Aditya Mahekar and I'm a Computer Science Engineer currently pursuing my studies in BMS Institute o Technology and Management</p>
-
-###
+<p align="left">My name is Aditya Mahekar and I'm a Computer Science Engineer currently pursuing my studies in BMS Institute of Technology and Management</p>
 
 <h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+<p align="left">✨ Full Stcak Developer <br>📚 I'm currently studing in BMSIT <br>🎯 Goals: To get placed in a good company<br>🎲 UIUX Entusiast</p>
 
 <h2 align="left">I code with</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -54,17 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?"  />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityamahekar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -73,10 +55,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
 <div align="center">
   <img height="200" src="https://i.postimg.cc/1XrRxLjs/download-removebg-preview.png"  />
 </div>
-
-###
