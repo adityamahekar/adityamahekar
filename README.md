@@ -75,8 +75,8 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.postimg.cc/4Nhhcxw7/download.jpg"  />
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/1XrRxLjs/download-removebg-preview.png"  />
 </div>
 
 ###
