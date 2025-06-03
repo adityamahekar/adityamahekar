@@ -7,6 +7,27 @@
 
 ---
 
+
+---
+  <!-- Profile Counter -->
+  <h1 style="font-size: 36px; margin-bottom: 20px;">Welcome to My Profile 🚀</h1>
+  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile Views" />
+  
+  <!-- Profile Picture -->
+  <div style="margin: 20px;">
+    <img src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png" height="120" alt="Aditya Mahekar" />
+  </div>
+  
+  <!-- LinkedIn -->
+  <p style="font-size: 18px; margin: 15px 0;">
+    <strong>Connect with me:</strong> 
+    <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank" style="color: #ffcc00; text-decoration: none; font-weight: bold;">LinkedIn</a>
+---
+### 🎉 Profile Views
+<div align="center">
+  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile counter" />
+</div>
+
 ### 🐍 Snake Animation
 <div align="center">
   <img src="https://github.com/adityamahekar/adityamahekar/raw/output/snake.svg" alt="Snake animation" />
@@ -14,19 +35,6 @@
 
 ---
 
-### 🎉 Profile Views
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile counter" />
-</div>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">Aditya Mahekar</a>
-</p>
-
----
 
 ### 🛠️ Skills
 <div align="center">
@@ -61,22 +69,36 @@
 
 ---
 
-### 🌟 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages" />
-</div>
+<div align="center" style="
+  background: url('https://images.unsplash.com/photo-1581349481447-938cb11162c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+">
 
----
 
-### 🔥 Streaks
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityamahekar&theme=radical&hide_border=false" height="150" alt="GitHub Streaks" />
-</div>
 
----
+  <!-- GitHub Stats -->
+  <div style="margin: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  </div>
+  
+  <!-- Streak Stats -->
+  <div style="margin: 20px;">
+    <img src="https://streak-stats.demolab.com?user=adityamahekar&theme=radical" height="150" alt="GitHub Streak Stats" />
+  </div>
+  
+  <!-- Trophies -->
+  <div style="margin: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityamahekar&theme=radical" height="150" alt="GitHub Trophies" />
+  </div>
 
-### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&theme=radical&area=true" height="300" alt="Contribution Activity" />
+  <!-- Snake Animation -->
+  <div align="center" style="margin: 20px;">
+    <img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg" alt="Snake animation" />
+  </div>
 </div>
