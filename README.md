@@ -5,18 +5,11 @@
   <p style="color: #ddd; font-size: 18px;">Java | C | Python | Front-End & Back-End Development | React.js | Databases</p>
 </div>
 
----
-
 
 ---
   <!-- Profile Counter -->
   <h1 style="font-size: 36px; margin-bottom: 20px;">Welcome to My Profile 🚀</h1>
   <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile Views" />
-  
-  <!-- Profile Picture -->
-  <div style="margin: 20px;">
-    <img src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png" height="120" alt="Aditya Mahekar" />
-  </div>
   
   <!-- LinkedIn -->
   <p style="font-size: 18px; margin: 15px 0;">
@@ -28,15 +21,10 @@
   <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile counter" />
 </div>
 
-### 🐍 Snake Animation
-<div align="center">
-  <img src="https://github.com/adityamahekar/adityamahekar/raw/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 
-### 🛠️ Skills
+
+🛠️ Skills
 <div align="center">
   <!-- Front-End -->
   <h3>Front-End Development</h3>
@@ -68,7 +56,12 @@
 </div>
 
 ---
+### 🐍 Snake Animation
+<div align="center">
+  <img src="https://github.com/adityamahekar/adityamahekar/raw/output/snake.svg" alt="Snake animation" />
+</div>
 
+---
 <div align="center" style="
   background: url('https://images.unsplash.com/photo-1581349481447-938cb11162c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80');
   background-size: cover;
