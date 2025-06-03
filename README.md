@@ -5,17 +5,175 @@
   <p style="color: #ddd; font-size: 18px;">Java | C | Python | Front-End & Back-End Development | React.js | Databases</p>
 </div>
 ---
- <!-- Profile Picture -->
-  <div style="margin: 20px;">
-    <img src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png" height="120" alt="Aditya Mahekar" />
-  </div>
-  ---
+<div align="right">
+  <img height="150" src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png"  />
+</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Snake with Green Variant Food</title>
+  <style>
+    body {
+      background: #0d1117;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(50, 15px);
+      grid-template-rows: repeat(7, 15px);
+      gap: 3px;
+    }
+
+    .cell {
+      width: 15px;
+      height: 15px;
+      background: #161b22;
+      border-radius: 2px;
+      transition: all 0.1s ease;
+    }
+
+    .snake {
+      background-color: #6a0dad !important; /* Dark purple */
+    }
+
+    .snake-head {
+      background-color: #b266ff !important; /* Light purple */
+      transform: scale(1.4);
+      border-radius: 4px;
+    }
+
+    .food-1 {
+      background-color: #a8ffb3 !important; /* lightest green */
+    }
+
+    .food-2 {
+      background-color: #6fff8e !important;
+    }
+
+    .food-3 {
+      background-color: #2ecc71 !important;
+    }
+
+    .food-4 {
+      background-color: #1e8449 !important; /* darkest green */
+    }
+  </style>
+</head>
+<body>
+  <div class="grid" id="grid"></div>
+
+  <script>
+    const cols = 50;
+    const rows = 7;
+    const totalCells = cols * rows;
+    const grid = document.getElementById('grid');
+
+    const cells = [];
+    for (let i = 0; i < totalCells; i++) {
+      const cell = document.createElement('div');
+      cell.classList.add('cell');
+      grid.appendChild(cell);
+      cells.push(cell);
+    }
+
+    let snake = [Math.floor(totalCells / 2)];
+    const snakeLength = 4;
+    let food = [];
+    const maxFood = 100;
+    const foodVariants = ['food-1', 'food-2', 'food-3', 'food-4'];
+
+    function placeFood() {
+      while (food.length < maxFood) {
+        const newFood = Math.floor(Math.random() * totalCells);
+        if (!food.some(f => f.index === newFood) && !snake.includes(newFood)) {
+          const type = foodVariants[Math.floor(Math.random() * foodVariants.length)];
+          food.push({ index: newFood, type });
+        }
+      }
+    }
+
+    function getXY(index) {
+      return [index % cols, Math.floor(index / cols)];
+    }
+
+    function getIndex(x, y) {
+      return y * cols + x;
+    }
+
+    function moveSnake() {
+      const head = snake[0];
+      const [hx, hy] = getXY(head);
+
+      let target = food[0]?.index;
+      let minDist = Infinity;
+      for (const f of food) {
+        const [fx, fy] = getXY(f.index);
+        const dist = Math.abs(fx - hx) + Math.abs(fy - hy);
+        if (dist < minDist) {
+          minDist = dist;
+          target = f.index;
+        }
+      }
+
+      const [tx, ty] = getXY(target);
+      let nx = hx;
+      let ny = hy;
+
+      if (hx < tx) nx++;
+      else if (hx > tx) nx--;
+      else if (hy < ty) ny++;
+      else if (hy > ty) ny--;
+
+      nx = Math.max(0, Math.min(cols - 1, nx));
+      ny = Math.max(0, Math.min(rows - 1, ny));
+
+      const newHead = getIndex(nx, ny);
+      snake.unshift(newHead);
+
+      const eatenIndex = food.findIndex(f => f.index === newHead);
+      if (eatenIndex !== -1) {
+        food.splice(eatenIndex, 1);
+      }
+
+      while (snake.length > snakeLength) {
+        snake.pop();
+      }
+    }
+
+    function render() {
+      cells.forEach(cell => cell.className = 'cell');
+
+      food.forEach(f => cells[f.index].classList.add(f.type));
+
+      for (let i = 0; i < snake.length; i++) {
+        const className = i === 0 ? 'snake-head' : 'snake';
+        cells[snake[i]].classList.add(className);
+      }
+    }
+
+    placeFood();
+    render();
+
+    setInterval(() => {
+      moveSnake();
+      placeFood();
+      render();
+    }, 120);
+  </script>
+</body>
+</html>
+
   <!-- LinkedIn -->
   <p style="font-size: 18px; margin: 15px 0;">
     <strong>Connect with me:</strong> 
     <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank" style="color: #ffcc00; text-decoration: none; font-weight: bold;">LinkedIn</a>
 ---
-### 🎉 Profile Views
 <div align="center">
   <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile counter" />
 </div>
