@@ -4,13 +4,12 @@
   <h1 style="color: #fff; font-size: 36px;">👋 Hi, I'm Aditya Mahekar</h1>
   <p style="color: #ddd; font-size: 18px;">Java | C | Python | Front-End & Back-End Development | React.js | Databases</p>
 </div>
-
-
 ---
-  <!-- Profile Counter -->
-  <h1 style="font-size: 36px; margin-bottom: 20px;">Welcome to My Profile 🚀</h1>
-  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile Views" />
-  
+ <!-- Profile Picture -->
+  <div style="margin: 20px;">
+    <img src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png" height="120" alt="Aditya Mahekar" />
+  </div>
+  ---
   <!-- LinkedIn -->
   <p style="font-size: 18px; margin: 15px 0;">
     <strong>Connect with me:</strong> 
