@@ -1,5 +1,4 @@
 <div align="center">
-  
   <!-- DYNAMIC RGB HEADER -->
   <h1 style="
     font-size: 3.5rem;
@@ -15,7 +14,7 @@
   <p style="font-size: 1.5rem; color: #666;">Full Stack Developer | Open Source Contributor</p>
 
   <!-- INTERACTIVE GAME LINKS -->
-  <div style="display: flex; gap: 15px; justify-content: center; margin: 30px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 30px 0;">
     <a href="https://adityamahekar.github.io/snake-game" target="_blank">
       <img src="https://img.shields.io/badge/Play-Snake_Game-4CAF50?style=for-the-badge&logo=gamejolt&logoColor=white" alt="Snake Game">
     </a>
@@ -47,7 +46,7 @@
       justify-content: center;
       overflow: hidden;
     ">
-      <img src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png" height="240" style="border-radius: 50%; object-fit: cover;">
+      <img src="https://avatars.githubusercontent.com/u/12345678?v=4" height="240" width="240" style="border-radius: 50%; object-fit: cover;" alt="Profile Picture">
     </div>
   </div>
 
@@ -55,7 +54,6 @@
   <div style="margin: 40px 0;">
     <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF4D4D&background=FFFFFF00&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C%20World!%22);+%2F%2F+TypeScript;+const+dev+%3D+new+Developer(%22Aditya%22);+dev.code()%3B;+%2F%2F+React+Components;+%3CApp+%2F%3E" alt="Typing animation">
   </div>
-
 </div>
 
 <!-- COLORFUL SKILLS SECTION -->
@@ -78,9 +76,9 @@
       width: 120px;
       text-align: center;
       transition: all 0.3s;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(255,77,77,0.2)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-bottom: 10px;">
+    " onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(255,77,77,0.2)'" 
+    onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-bottom: 10px;" alt="React">
       <p style="margin: 0; font-weight: bold; color: #FF4D4D;">React</p>
     </div>
     
@@ -92,9 +90,9 @@
       width: 120px;
       text-align: center;
       transition: all 0.3s;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(249,203,40,0.2)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin-bottom: 10px;">
+    " onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(249,203,40,0.2)'" 
+    onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin-bottom: 10px;" alt="TypeScript">
       <p style="margin: 0; font-weight: bold; color: #F9CB28;">TypeScript</p>
     </div>
     
@@ -106,13 +104,11 @@
       width: 120px;
       text-align: center;
       transition: all 0.3s;
-    " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(77,255,77,0.2)'" 
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-bottom: 10px;">
+    " onMouseOver="this.style.transform='scale(1.05)'; this.style.boxShadow='0 5px 15px rgba(77,255,77,0.2)'" 
+    onMouseOut="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-bottom: 10px;" alt="Node.js">
       <p style="margin: 0; font-weight: bold; color: #4DFF4D;">Node.js</p>
     </div>
-    
-    <!-- Add more skills in different colors -->
   </div>
 </div>
 
@@ -135,7 +131,7 @@
   
   <!-- SNAKE GAME EMBED -->
   <div style="margin-top: 40px;">
-    <img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/github-contribution-grid-snake.svg" alt="Snake Game" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
   </div>
 </div>
 
@@ -143,18 +139,18 @@
 <div align="center" style="margin-top: 50px; padding: 20px 0; border-top: 1px solid #eee;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn">
     </a>
     <a href="https://github.com/adityamahekar" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40">
+      <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" alt="GitHub">
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40">
+    <a href="mailto:contact@adityamahekar.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email">
     </a>
   </div>
   
   <p style="margin-top: 20px; color: #777;">
-    Made with ❤️ and JavaScript | © 2023 Aditya Mahekar
+    Made with ❤️ and JavaScript | © {new Date().getFullYear()} Aditya Mahekar
   </p>
   
   <!-- VISITOR COUNTER -->
