@@ -17,9 +17,9 @@
       Currently pursuing Computer Science Engineering at BMS Institute of Technology and Management.<br>
       I love merging hardware with software to create smart solutions—from web apps to intelligent robots.
     </p>
-
     <p>
-      <strong>Connect with me:</strong> 
+    <p>
+      <span>Connect with me:</span> 
       <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a>
     </p>
   </div>
