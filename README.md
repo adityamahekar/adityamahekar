@@ -6,7 +6,7 @@
 
 ###
 
-<div align="center">
+<div align="center" height:200px>
   <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?"  />
 </div>
 
