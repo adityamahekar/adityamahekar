@@ -15,7 +15,10 @@
 </div>
 
 ###
-<div class="section">
+<div class="section" align="left">
+ <span>\tCurrently pursuing Computer Science Engineering at BMS Institute of Technology and Management.  
+I love merging hardware with software to create smart solutions—from web apps to intelligent robots.</span>
+
    <p><strong style="margin-left:284px">Connect with me:</strong> <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a></p>
    
   </div>
