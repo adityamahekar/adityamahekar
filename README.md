@@ -9,19 +9,27 @@
 
 
 ###
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+  
+  <!-- Left Content -->
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      Currently pursuing Computer Science Engineering at BMS Institute of Technology and Management.<br>
+      I love merging hardware with software to create smart solutions—from web apps to intelligent robots.
+    </p>
 
-<div align="right">
-  <img height="300" src="./luffy.jpg"  />
-</div>
-
-###
-<div class="section" align="left">
- <span>\tCurrently pursuing Computer Science Engineering at BMS Institute of Technology and Management.  
-I love merging hardware with software to create smart solutions—from web apps to intelligent robots.</span>
-
-   <p><strong style="margin-left:284px">Connect with me:</strong> <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a></p>
-   
+    <p>
+      <strong>Connect with me:</strong> 
+      <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a>
+    </p>
   </div>
+
+  <!-- Right Image -->
+  <div style="flex-shrink: 0;">
+    <img src="./luffy.jpg" alt="Aditya" height="300" />
+  </div>
+
+</div>
 
 
 <div align="center">
