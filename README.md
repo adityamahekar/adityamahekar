@@ -5,16 +5,18 @@
 <h2 align="left">👋 Hi, I'm Aditya Mahekar</h2>
 
 ###
+
+
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
 
-  <!-- Left: Counter -->
+  <!-- Left: Visitor Counter -->
   <div>
     <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" alt="Visitor Counter" height="60" />
   </div>
 
-  <!-- Right: Image -->
+  <!-- Right: Circular Image -->
   <div>
-    <img src="./luffy.jpg" alt="Aditya" height="300" />
+    <img src="./luffy.jpg" alt="Aditya" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover;" />
   </div>
 
 </div>
