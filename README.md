@@ -1,164 +1,29 @@
+<h1 align="center">Hi 👋, I'm Aditya Mahekar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamahekar&label=Profile%20views&color=0e75b6&style=flat" alt="adityamahekar" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamahekar" alt="adityamahekar" /></a> </p>
 
-<h2 align="left">👋 Hi, I'm Aditya Mahekar</h2>
+- 🌱 I’m currently learning **BE in CSE**
 
-###
+- 👨‍💻 All of my projects are available at [https://adityamahekar.github.io/MyWeb/](https://adityamahekar.github.io/MyWeb/)
 
+- 📫 How to reach me **mahekaraditya468@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/1_R-uNJbsfpI1cCQVQWQywgFeE-5IBDyx/edit?tab=t.0](https://docs.google.com/document/d/1_R-uNJbsfpI1cCQVQWQywgFeE-5IBDyx/edit?tab=t.0)
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-mahekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-mahekar/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/aditya__mahekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditya__mahekar/" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-###
-<div class="section">
-   <p><strong style="margin-left:284px">Connect with me:</strong> <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a></p>
-  </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamahekar&show_icons=true&locale=en&layout=compact" alt="adityamahekar" /></p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&locale=en" alt="adityamahekar" /></p>
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Aditya G Mahekar" width="200" style="border-radius: 50%; border: 4px solid transparent; animation: glow 2s infinite alternate; box-shadow: 0 0 15px rgba(0,150,255,0.5);"/>
-  
-  <h1 style="background: linear-gradient(45deg, #0066ff, #00ccff, #0066ff); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: bold; animation: gradientShift 5s infinite; margin-bottom: 5px;">Aditya G Mahekar</h1>
-  
-  <div style="color: #555; margin-bottom: 20px; font-size: 18px;">
-    <span>📍 Karwar, India, IN-581304</span> •
-    <span>📞 +919480100787</span> •
-    <span>📧 mahekaraditya468@gmail.com</span>
-  </div>
-  
-  <div style="margin-bottom: 25px;">
-    <a href="https://www.linkedin.com/in/adityamahekar" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/adityamahekar" target="_blank" style="text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0,102,255,0.1), rgba(0,204,255,0.1)); padding: 25px; border-radius: 15px; margin: 20px 0; animation: fadeIn 1.5s;">
-  <h2 style="color: #0066ff; border-bottom: 2px solid #00ccff; padding-bottom: 8px; display: flex; align-items: center;">
-    <span style="margin-right: 10px;">🎓</span> Education
-  </h2>
-  
-  <div style="margin-left: 20px;">
-    <h3 style="color: #333; margin-bottom: 5px;">BMS Institute of Technology & Management</h3>
-    <p style="color: #555; margin-top: 0;">Bachelor of Engineering in Computer Science</p>
-    
-    <h3 style="color: #333; margin-bottom: 5px;">Government Polytechnic College, Karwar</h3>
-    <p style="color: #555; margin-top: 0;">Diploma in Mechanical Engineering (CGPA: 9.56/10)</p>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0,204,255,0.1), rgba(0,102,255,0.1)); padding: 25px; border-radius: 15px; margin: 20px 0; animation: fadeIn 1.5s;">
-  <h2 style="color: #0066ff; border-bottom: 2px solid #00ccff; padding-bottom: 8px; display: flex; align-items: center;">
-    <span style="margin-right: 10px;">💼</span> Experience
-  </h2>
-  
-  <div style="margin-left: 20px;">
-    <h3 style="color: #333; margin-bottom: 5px;">Fresher</h3>
-    <p style="color: #555; margin-top: 0;">Currently seeking opportunities to apply my skills and knowledge in real-world projects.</p>
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 25px 0;">
-  <div style="flex: 1; min-width: 300px; background: rgba(0,102,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #0066ff; transition: all 0.3s; animation: fadeIn 1.5s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,102,255,0.1)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="color: #0066ff; display: flex; align-items: center;">
-      <span style="margin-right: 10px;">🌐</span> Education Technology Platform
-    </h3>
-    <div style="margin-bottom: 10px;">
-      <span style="background-color: #e6f2ff; color: #0066cc; padding: 3px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">HTML</span>
-      <span style="background-color: #e6f2ff; color: #0066cc; padding: 3px 8px; border-radius: 4px; font-size: 12px;">CSS</span>
-    </div>
-    <p style="color: #555;">An innovative educational technology platform designed to enhance learning experiences through interactive content and personalized learning paths.</p>
-  </div>
-  
-  <div style="flex: 1; min-width: 300px; background: rgba(0,204,255,0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #00ccff; transition: all 0.3s; animation: fadeIn 1.5s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,204,255,0.1)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="color: #00aacc; display: flex; align-items: center;">
-      <span style="margin-right: 10px;">🤖</span> Pick and Place Robot
-    </h3>
-    <div style="margin-bottom: 10px;">
-      <span style="background-color: #e6f7ff; color: #0088aa; padding: 3px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">Automation</span>
-      <span style="background-color: #e6f7ff; color: #0088aa; padding: 3px 8px; border-radius: 4px; font-size: 12px;">Robotics</span>
-    </div>
-    <p style="color: #555;">An automated robotic system capable of identifying, picking, and placing objects with precision for industrial applications.</p>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0,102,255,0.1), rgba(0,204,255,0.1)); padding: 25px; border-radius: 15px; margin: 20px 0; animation: fadeIn 1.5s;">
-  <h2 style="color: #0066ff; border-bottom: 2px solid #00ccff; padding-bottom: 8px; display: flex; align-items: center;">
-    <span style="margin-right: 10px;">🛠️</span> Technical Skills
-  </h2>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
-    <div style="flex: 1; min-width: 200px;">
-      <h4 style="color: #0066ff; margin-bottom: 10px;">Programming Languages</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: linear-gradient(45deg, #0066ff, #00ccff); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Java</span>
-        <span style="background: linear-gradient(45deg, #0066ff, #00ccff); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">C</span>
-        <span style="background: linear-gradient(45deg, #0066ff, #00ccff); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Python</span>
-        <span style="background: linear-gradient(45deg, #0066ff, #00ccff); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">JavaScript</span>
-        <span style="background: linear-gradient(45deg, #0066ff, #00ccff); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">CNC</span>
-      </div>
-    </div>
-    
-    <div style="flex: 1; min-width: 200px;">
-      <h4 style="color: #0066ff; margin-bottom: 10px;">Web Development</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: linear-gradient(45deg, #0066cc, #0099cc); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">HTML5</span>
-        <span style="background: linear-gradient(45deg, #0066cc, #0099cc); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">CSS3</span>
-        <span style="background: linear-gradient(45deg, #0066cc, #0099cc); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">React.js</span>
-        <span style="background: linear-gradient(45deg, #0066cc, #0099cc); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Node.js</span>
-        <span style="background: linear-gradient(45deg, #0066cc, #0099cc); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Express.js</span>
-      </div>
-    </div>
-    
-    <div style="flex: 1; min-width: 200px;">
-      <h4 style="color: #0066ff; margin-bottom: 10px;">Database & APIs</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: linear-gradient(45deg, #0055aa, #0077aa); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">MySQL</span>
-        <span style="background: linear-gradient(45deg, #0055aa, #0077aa); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">PostgreSQL</span>
-        <span style="background: linear-gradient(45deg, #0055aa, #0077aa); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">APIs</span>
-        <span style="background: linear-gradient(45deg, #0055aa, #0077aa); color: white; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Authentication</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0,204,255,0.1), rgba(0,102,255,0.1)); padding: 25px; border-radius: 15px; margin: 20px 0; animation: fadeIn 1.5s;">
-  <h2 style="color: #0066ff; border-bottom: 2px solid #00ccff; padding-bottom: 8px; display: flex; align-items: center;">
-    <span style="margin-right: 10px;">🤝</span> Activities
-  </h2>
-  
-  <div style="margin-left: 20px;">
-    <h3 style="color: #333; margin-bottom: 5px;">Rotary Club Member</h3>
-    <p style="color: #555; margin-top: 0;">Active member contributing to community service initiatives and social welfare programs.</p>
-  </div>
-</div>
-
-<style>
-  @keyframes glow {
-    from { box-shadow: 0 0 10px rgba(0,150,255,0.5); }
-    to { box-shadow: 0 0 20px rgba(0,102,255,0.7), 0 0 30px rgba(0,204,255,0.4); }
-  }
-  
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamahekar&" alt="adityamahekar" /></p>
