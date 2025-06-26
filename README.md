@@ -7,14 +7,14 @@
 ###
 
   <!-- Right Image -->
-  <div align="center">
+  <div align="right">
     <img src="./luffy.jpg" alt="Aditya" height="300" />
   </div>
 
 </div>
 
 ###
-<div  align-items: left; justify-content: space-between; padding: 20px;">
+<div  style="align-items: left; justify-content: space-between; padding: 20px;">
  <p>
       <span>Connect with me:</span> 
       <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a>
