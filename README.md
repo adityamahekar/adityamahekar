@@ -6,8 +6,12 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
+<div align="right">
+  <img src="https://i.postimg.cc/vTCrJvqz/0-j7s-Vnq-d-E0-XWd-S12.jpg" 
+       alt="Profile" 
+       width="200" 
+       style="border-radius: 50%; border: 5px solid #4285F4; object-fit: cover; box-shadow: 0 0 20px rgba(66, 133, 244, 0.3);"/>
+</div>
 ###
 
 <h2 align="left">About me</h2>
