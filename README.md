@@ -6,7 +6,12 @@
 
 ###
 
+  <!-- Right Image -->
+  <div style="flex-shrink: 0;">
+    <img src="./luffy.jpg" alt="Aditya" height="300" />
+  </div>
 
+</div>
 
 ###
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
@@ -24,12 +29,7 @@
     
   </div>
 
-  <!-- Right Image -->
-  <div style="flex-shrink: 0;">
-    <img src="./luffy.jpg" alt="Aditya" height="300" />
-  </div>
 
-</div>
 
 
 <div align="center">
