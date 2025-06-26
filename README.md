@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png"  />
+  <img height="200" src="./luffy.jpg"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg" alt="Snake animation"/>
 
 ###
 
