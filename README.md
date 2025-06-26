@@ -15,7 +15,7 @@
   </div>
 
   <!-- Right: Circular Image -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; align-item=right">
     <img src="./luffy.jpg" alt="Aditya" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover;" />
   </div>
 
