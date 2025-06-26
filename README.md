@@ -10,8 +10,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="./luffy.jpg"  />
+<div align="right">
+  <img height="300" src="./luffy.jpg"  />
 </div>
 
 ###
