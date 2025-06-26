@@ -1,32 +1,35 @@
-<!-- Galactic-themed GitHub Profile -->
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<div align="center" style="background: url('https://source.unsplash.com/featured/?galaxy,stars'); background-size: cover; padding: 20px; border-radius: 15px;">
-  <h1 style="color: #fff; font-size: 36px;">👋 Hi, I'm Aditya Mahekar</h1>
-  <p style="color: #ddd; font-size: 18px;">Java | C | Python | Front-End & Back-End Development | React.js | Databases</p>
-</div>
+###
 
----
+<h2 align="left">👋 Hi, I'm Aditya Mahekar</h2>
 
-### 🐍 Snake Animation
+###
+
+
+
+###
+
 <div align="center">
-  <img src="https://github.com/adityamahekar/adityamahekar/raw/output/snake.svg" alt="Snake animation" />
+  <img height="200" src="https://i.postimg.cc/MZNc6rc8/download-removebg-preview.png"  />
 </div>
 
----
+###
+<div class="section">
+   <p><strong style="margin-left:284px">Connect with me:</strong> <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a></p>
+   
+  </div>
 
-### 🎉 Profile Views
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg" alt="Profile counter" />
+  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?"  />
 </div>
 
----
+###
 
-### 🌐 Connect with Me
-<p align="center">
-  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">Aditya Mahekar</a>
-</p>
+<img src="https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg" alt="Snake animation" />
 
----
+###
 
 ### 🛠️ Skills
 <div align="center">
@@ -59,24 +62,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
 </div>
 
----
 
-### 🌟 GitHub Stats
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app?username=adityamahekar&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=adityamahekar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityamahekar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamahekar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
----
-
-### 🔥 Streaks
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityamahekar&theme=radical&hide_border=false" height="150" alt="GitHub Streaks" />
-</div>
-
----
-
-### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&theme=radical&area=true" height="300" alt="Contribution Activity" />
-</div>
+###
