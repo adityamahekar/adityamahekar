@@ -10,16 +10,17 @@
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
 
   <!-- Left: Visitor Counter -->
-  <div>
-    <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" alt="Visitor Counter" height="60" />
+  <div style="flex-shrink: 0;">
+    <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" alt="Visitor Counter" style="height: 60px;" />
   </div>
 
   <!-- Right: Circular Image -->
-  <div>
+  <div style="flex-shrink: 0;">
     <img src="./luffy.jpg" alt="Aditya" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover;" />
   </div>
 
 </div>
+
 
 
 ###
