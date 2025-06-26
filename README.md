@@ -5,22 +5,16 @@
 <h2 align="left">👋 Hi, I'm Aditya Mahekar</h2>
 
 ###
-
-
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
-
-  <!-- Left: Visitor Counter -->
-  <div style="flex-shrink: 0;">
-    <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" alt="Visitor Counter" style="height: 60px;" />
-  </div>
-
-  <!-- Right: Circular Image -->
-  <div style="flex-shrink: 0; align-item=right">
-    <img src="./luffy.jpg" alt="Aditya" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover;" />
+  <!-- Right Image -->
+  <div align="right">
+    <img src="./luffy.jpg" alt="Aditya" height="300" />
   </div>
 
 </div>
 
+<div align="left" >
+  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" height="40" />
+</div>
 
 
 ###
@@ -33,9 +27,9 @@
   <div style="flex: 1; padding-right: 20px; align="left">
     <p>
       Currently pursuing Computer Science Engineering at BMS Institute of Technology and Management.<br>
-      I love merging hardware with software to create smart solutions—from web apps to intelligent robots.
-    </p>
-    <p>
+     
+ 
+
     
   </div>
 
