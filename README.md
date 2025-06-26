@@ -6,6 +6,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?"  />
+</div>
+
   <!-- Right Image -->
   <div align="right">
     <img src="./luffy.jpg" alt="Aditya" height="300" />
@@ -32,9 +36,6 @@
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?"  />
-</div>
 
 ###
 
