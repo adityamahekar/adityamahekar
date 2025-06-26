@@ -7,7 +7,7 @@
 ###
 
   <!-- Right Image -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; align="center">
     <img src="./luffy.jpg" alt="Aditya" height="300" />
   </div>
 
