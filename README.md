@@ -10,18 +10,18 @@
 
 ###
 <div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
-  
+ <p>
+      <span>Connect with me:</span> 
+      <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a>
+    </p>
   <!-- Left Content -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1; padding-right: 20px; align="left">
     <p>
       Currently pursuing Computer Science Engineering at BMS Institute of Technology and Management.<br>
       I love merging hardware with software to create smart solutions—from web apps to intelligent robots.
     </p>
     <p>
-    <p>
-      <span>Connect with me:</span> 
-      <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a>
-    </p>
+    
   </div>
 
   <!-- Right Image -->
