@@ -7,14 +7,14 @@
 ###
 
   <!-- Right Image -->
-  <div style="flex-shrink: 0; align="center">
+  <div align="center">
     <img src="./luffy.jpg" alt="Aditya" height="300" />
   </div>
 
 </div>
 
 ###
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+<div  align-items: left; justify-content: space-between; padding: 20px;">
  <p>
       <span>Connect with me:</span> 
       <a href="https://www.linkedin.com/in/aditya-mahekar" target="_blank">LinkedIn</a>
