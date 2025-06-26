@@ -1,128 +1,29 @@
-<div align="center">
-  <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Profile" width="200" style="border-radius: 50%; border: 4px solid transparent; box-shadow: 0 0 20px rgba(100, 149, 237, 0.6);"/>
+<h1 align="center">Hi 👋, I'm Aditya Mahekar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-  <!-- Title with Gradient Text -->
-  <h1 style="background: linear-gradient(45deg, #4285F4, #34A853, #FBBC05, #EA4335); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: bold; margin-bottom: 5px;">Hi, I'm Aditya Mahekar</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamahekar&label=Profile%20views&color=0e75b6&style=flat" alt="adityamahekar" /> </p>
 
-  <!-- Subtitle -->
-  <h3 style="color: #555; font-weight: normal; margin-top: 0; text-shadow: 0 0 8px rgba(100, 149, 237, 0.1);">Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityamahekar" alt="adityamahekar" /></a> </p>
 
-  <!-- Stats -->
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=radical&count_private=true" alt="Stats" style="border-radius: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=radical" alt="Top Langs" style="border-radius: 10px;"/>
-  </div>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamahekar&theme=radical" alt="Streak Stats" style="border-radius: 10px; margin-bottom: 20px;"/>
-</div>
+- 🌱 I’m currently learning **BE in CSE**
 
-<!-- About Section -->
-<div style="background: linear-gradient(135deg, rgba(66, 133, 244, 0.1), rgba(52, 168, 83, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: #4285F4; border-bottom: 2px solid #34A853; padding-bottom: 8px;">✨ About Me</h2>
-  
-  <p style="color: #555; font-size: 16px; line-height: 1.6;">
-    I'm a passionate Full Stack Developer currently pursuing my BE in Computer Science. 
-    I love building web applications and exploring new technologies.
-  </p>
-  
-  <div style="margin-top: 15px;">
-    <span style="display: inline-block; background: rgba(66, 133, 244, 0.2); color: #4285F4; padding: 5px 15px; border-radius: 20px; margin: 5px; font-size: 14px;">🌱 Currently learning: Advanced React & Node.js</span>
-    <span style="display: inline-block; background: rgba(251, 188, 5, 0.2); color: #FBBC05; padding: 5px 15px; border-radius: 20px; margin: 5px; font-size: 14px;">💡 Interested in: Blockchain & AI</span>
-  </div>
-</div>
+- 👨‍💻 All of my projects are available at [https://adityamahekar.github.io/MyWeb/](https://adityamahekar.github.io/MyWeb/)
 
-<!-- Projects Section -->
-<div style="background: linear-gradient(135deg, rgba(251, 188, 5, 0.1), rgba(234, 67, 53, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: #FBBC05; border-bottom: 2px solid #EA4335; padding-bottom: 8px;">🚀 Featured Projects</h2>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px;">
-    <!-- Project 1 -->
-    <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-      <h3 style="color: #4285F4; margin-top: 0;">Education Platform</h3>
-      <p style="color: #555; font-size: 14px;">An interactive learning platform with personalized content.</p>
-      <div style="margin-top: 10px;">
-        <span style="background: #E8F0FE; color: #4285F4; padding: 3px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">React</span>
-        <span style="background: #E8F0FE; color: #4285F4; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Node.js</span>
-      </div>
-      <a href="https://adityamahekar.github.io/MyWeb/" style="display: inline-block; background: #4285F4; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; margin-top: 10px; font-size: 14px;">View Project</a>
-    </div>
-    
-    <!-- Project 2 -->
-    <div style="flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-      <h3 style="color: #EA4335; margin-top: 0;">Pick & Place Robot</h3>
-      <p style="color: #555; font-size: 14px;">Automated robotic system for industrial applications.</p>
-      <div style="margin-top: 10px;">
-        <span style="background: #FEE8E7; color: #EA4335; padding: 3px 10px; border-radius: 20px; font-size: 12px; margin-right: 5px;">Python</span>
-        <span style="background: #FEE8E7; color: #EA4335; padding: 3px 10px; border-radius: 20px; font-size: 12px;">Robotics</span>
-      </div>
-      <a href="#" style="display: inline-block; background: #EA4335; color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; margin-top: 10px; font-size: 14px;">View Project</a>
-    </div>
-  </div>
-</div>
+- 📫 How to reach me **mahekaraditya468@gmail.com**
 
-<!-- Skills Section -->
-<div style="background: linear-gradient(135deg, rgba(52, 168, 83, 0.1), rgba(66, 133, 244, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: #34A853; border-bottom: 2px solid #4285F4; padding-bottom: 8px;">🛠️ Technical Skills</h2>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
-    <!-- Languages -->
-    <div style="flex: 1; min-width: 200px;">
-      <h4 style="color: #34A853; margin-bottom: 10px;">Languages</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">JavaScript</span>
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Python</span>
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Java</span>
-      </div>
-    </div>
-    
-    <!-- Frontend -->
-    <div style="flex: 1; min-width: 200px;">
-      <h4 style="color: #34A853; margin-bottom: 10px;">Frontend</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">React</span>
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">HTML5</span>
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">CSS3</span>
-      </div>
-    </div>
-    
-    <!-- Backend -->
-    <div style="flex: 1; min-width: 200px;">
-      <h4 style="color: #34A853; margin-bottom: 10px;">Backend</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Node.js</span>
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">Express</span>
-        <span style="background: #E6F4EA; color: #34A853; padding: 5px 10px; border-radius: 20px; font-size: 13px;">MongoDB</span>
-      </div>
-    </div>
-  </div>
-</div>
+- 📄 Know about my experiences [https://docs.google.com/document/d/1_R-uNJbsfpI1cCQVQWQywgFeE-5IBDyx/edit?tab=t.0](https://docs.google.com/document/d/1_R-uNJbsfpI1cCQVQWQywgFeE-5IBDyx/edit?tab=t.0)
 
-<!-- Contact Section -->
-<div style="background: linear-gradient(135deg, rgba(234, 67, 53, 0.1), rgba(251, 188, 5, 0.1)); padding: 25px; border-radius: 15px; margin: 20px 0;">
-  <h2 style="color: #EA4335; border-bottom: 2px solid #FBBC05; padding-bottom: 8px;">📫 Connect With Me</h2>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px; justify-content: center;">
-    <a href="https://www.linkedin.com/in/aditya-mahekar/" target="_blank" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: #0077B5; color: white; padding: 10px 20px; border-radius: 5px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="margin-right: 8px;"/>
-        LinkedIn
-      </div>
-    </a>
-    
-    <a href="https://github.com/adityamahekar" target="_blank" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: #333; color: white; padding: 10px 20px; border-radius: 5px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="margin-right: 8px;"/>
-        GitHub
-      </div>
-    </a>
-    
-    <a href="mailto:mahekaraditya468@gmail.com" style="text-decoration: none;">
-      <div style="display: flex; align-items: center; background: #EA4335; color: white; padding: 10px 20px; border-radius: 5px;">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" style="margin-right: 8px;"/>
-        Email
-      </div>
-    </a>
-  </div>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-mahekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-mahekar/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/aditya__mahekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditya__mahekar/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityamahekar&show_icons=true&locale=en&layout=compact" alt="adityamahekar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&locale=en" alt="adityamahekar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamahekar&" alt="adityamahekar" /></p>
