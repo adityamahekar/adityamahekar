@@ -7,7 +7,7 @@
 ###
 
 <div align="left" >
-  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" height="80" />
+  <img src="https://profile-counter.glitch.me/adityamahekar/count.svg?" height="60" />
 </div>
 
   <!-- Right Image -->
