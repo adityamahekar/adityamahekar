@@ -1,17 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">👋 Hi, I'm Aditya Mahekar</h2>
 
 
-<p align="center">
-  <img src="./luffy.jpg" alt="Aditya" height="250" style="border-radius: 15px;" />
-</p>
 
 # 👋 Hey there! I'm Aditya Mahekar
 # 🚀 Aditya Mahekar - GitHub Profile
-
+<p align="center">
+  <img src="./luffy.jpg" alt="Aditya" height="250" style="border-radius: 15px;" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=6FCF97&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver;Creative+Thinker;Tech+Innovator" alt="Typing SVG" />
 </p>
@@ -152,50 +146,7 @@
   
 </div>
 
-## 🎨 Projects Showcase
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project One</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x250/1a1b27/6FCF97?text=Cool+Project" width="400" height="250">
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-Link-black?style=for-the-badge&logo=github">
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&color=6FCF97">
-          </a>
-        </p>
-        <p><strong>JavaScript, HTML, CSS</strong> - A brief description of the project goes here.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project Two</h3>
-      <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x250/1a1b27/56CCF2?text=Awesome+App" width="400" height="250">
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-Link-black?style=for-the-badge&logo=github">
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&color=6FCF97">
-          </a>
-        </p>
-        <p><strong>Node.js, Express, MongoDB</strong> - A brief description of the project goes here.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## 📜 Latest Blog Posts
 
