@@ -128,13 +128,6 @@
   
 </div>
 
-<!-- Markdown-specific animations and styling -->
-<div align="center">
-  
-  ![Sparkline](https://stars.medv.io/adityamahekar/adityamahekar.svg)
-  
-</div>
-
 ---
 
 ## 🐍 Snake Animation
