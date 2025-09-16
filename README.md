@@ -91,16 +91,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/adityamahekar/adityamahekar/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
