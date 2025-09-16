@@ -2,7 +2,7 @@
 
 
 # 👋 Hey there! I'm Aditya Mahekar
-# 🚀 Aditya Mahekar - GitHub Profile
+
 <p align="center">
   <img src="./luffy.jpg" alt="Aditya" height="250" style="border-radius: 15px;" />
 </p>
