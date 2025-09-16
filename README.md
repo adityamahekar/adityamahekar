@@ -112,14 +112,6 @@
 
 ---
 
-<div align="center">
-  
-  ⭐️ From [adityamahekar](https://github.com/adityamahekar)
-  
-</div>
-
----
-
 ## 🐍 Snake Animation
 
 ![Snake animation](https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg)
