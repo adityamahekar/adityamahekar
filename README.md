@@ -101,17 +101,6 @@
 
 ---
 
-## ✨ Fun Facts
-
-- 🔭 I'm currently working on improving my **Data Structures & Algorithms** skills
-- 🌱 I'm learning **Cloud Computing** and **System Design**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development** and **JavaScript**
-- ⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
-- 🏴‍☠️ Secretly a Straw Hat pirate sailing through the seas of code!
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -146,16 +135,6 @@
   
 </div>
 
-
-
-## 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with Cloud Computing](https://dev.to/adityamahekar/getting-started-with-cloud-computing-123)
-- [JavaScript Tips and Tricks for Beginners](https://dev.to/adityamahekar/javascript-tips-and-tricks-for-beginners-123)
-- [Why I Love Open Source](https://dev.to/adityamahekar/why-i-love-open-source-123)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <p align="center">
@@ -163,7 +142,8 @@
 </p>
 
 <div align="center">
-  
+  ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adityamahekar/adityamahekar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
+
   **Thank you for visiting my profile!** Have a great day! 😊
   
 </div>
