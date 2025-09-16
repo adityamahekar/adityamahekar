@@ -137,12 +137,16 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/adityamahekar/adityamahekar/raw/output/snake.svg" alt="Snake animation" />
-</p>
+## 🐍 Snake Animation
 
-<div align="center">
-  ![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adityamahekar/adityamahekar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
+![Snake animation](https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg)
+
+## 👁️ Profile Views
+
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadityamahekar%2Fadityamahekar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)
+
+---
+
 
   **Thank you for visiting my profile!** Have a great day! 😊
   
