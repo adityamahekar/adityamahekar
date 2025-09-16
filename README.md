@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adityamahekar.adityamahekar)
+
   [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)
   
 </div>
