@@ -13,7 +13,9 @@
 <div align="center">
   
 
-  [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
+  [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)]<(https://github.com/adityamahekar)
+  &nbsp
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
 
   
 </div>
