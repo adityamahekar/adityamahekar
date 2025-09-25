@@ -14,7 +14,7 @@
   
 
   [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)
-  &nbsp
+  &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
 
   
