@@ -94,18 +94,7 @@
 
 ---
 
-## 🤝 Let's Connect
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mahekar)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamahekar)
-  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamahekar@gmail.com)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityamahekar)
-  
-</div>
-
----
 
 <div align="center">
   
