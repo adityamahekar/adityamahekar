@@ -19,7 +19,10 @@
 
   
 </div>
+---
+#My Resume
 
+https://adityamahekar.github.io/Resume/
 ---
 
 ## 🎯 About Me
