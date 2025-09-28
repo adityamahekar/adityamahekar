@@ -21,7 +21,7 @@
 </div>
 ---
 
-##My Resume
+## My Resume
 
 [https://adityamahekar.github.io/Resume/](https://adityamahekar.github.io/Resume/)
 
