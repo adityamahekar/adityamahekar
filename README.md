@@ -1,6 +1,3 @@
-![Custom Badge](https://img.shields.io/badge/Background-1a1b27?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 # 👋 Hey there! I'm Aditya Mahekar
 
