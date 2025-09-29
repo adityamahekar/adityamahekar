@@ -1,5 +1,6 @@
-backgroung:skyblue;
-
+<style>
+  backgroung:skyblue;
+</style>
 
 # 👋 Hey there! I'm Aditya Mahekar
 
