@@ -1,9 +1,6 @@
-<div style="background-color:#1a1b27; padding:20px; border-radius:10px;">
-
-  <h3 align="center" style="color:white;">🔥 Custom Background Box 🔥</h3>
-  <p align="center" style="color:white;">This box has a dark background</p>
-
-</div>
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/1a1b27/ffffff?text=Welcome+to+My+Profile" />
+</p>
 
 
 # 👋 Hey there! I'm Aditya Mahekar
