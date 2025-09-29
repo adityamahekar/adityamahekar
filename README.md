@@ -1,4 +1,4 @@
-backgroung:color skyblue;
+backgroung:skyblue;
 
 
 # 👋 Hey there! I'm Aditya Mahekar
