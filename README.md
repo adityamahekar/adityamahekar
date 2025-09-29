@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/1a1b27/ffffff?text=Welcome+to+My+Profile" />
-</p>
+![Custom Badge](https://img.shields.io/badge/Background-1a1b27?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 # 👋 Hey there! I'm Aditya Mahekar
