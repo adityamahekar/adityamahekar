@@ -1,159 +1,130 @@
-# 👋 Hello World! I'm Aditya Mahekar
+
+# 👋 Hey there! I'm Aditya Mahekar
 
 <p align="center">
-  <img src="./luffy.jpg" alt="Aditya Mahekar" height="280" style="border-radius: 20px; border: 3px solid #6FCF97; box-shadow: 0 0 25px rgba(111, 207, 151, 0.5);" />
+  <img src="./luffy.jpg" alt="Aditya" height="250" style="border-radius: 15px;" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=6FCF97&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+Enthusiast;Problem+Solver;Creative+Thinker;Tech+Innovator" alt="Typing SVG" />
 </p>
 
 <div align="center">
   
-  ### 🚀 Full-Stack Developer | Cloud Enthusiast | Tech Innovator
-  
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=flat-square&logo=javascript" />
-    <img src="https://img.shields.io/badge/Node.js-Pro-green?style=flat-square&logo=nodedotjs" />
-    <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=amazonaws" />
-    <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=flat-square&logo=fullstack" />
-  </div>
 
-</div>
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityamahekar)
+  [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)
+  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityamahekar.github.io/Resume/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamahekar@example.com)
 
+  
 </div>
 
 ---
 
-## 🌟 About Me
+## My Resume:           [https://adityamahekar.github.io/Resume/](https://adityamahekar.github.io/Resume/)
 
-🎓 **Computer Science Engineering** student at **BMS Institute of Technology and Management**  
+
+
+
+
+## 🎯 About Me
+
+🎓 **Computer Science Engineering** student at BMS Institute of Technology and Management  
 💡 Passionate about creating innovative solutions through code  
 🌱 Currently exploring **Cloud Technologies** and **DevOps Practices**  
 🎯 Goal: To become a versatile full-stack developer with cloud expertise  
-🚀 Always learning, always building, always growing
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-</div>
+### 📋 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks & Technologies
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  
-</div>
+### 🧩 Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### 🗄️ Databases & Cloud
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  
-</div>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔧 Developer Tools
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  
-</div>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   
   <a href="https://github.com/adityamahekar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
   
-  <br/>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=adityamahekar&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Coding%20Journey)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=adityamahekar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
   
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 📈 Activity Graph
 
-```javascript
-const currentFocus = {
-  learning: ["AWS Cloud Services", "DevOps Practices", "System Design"],
-  building: ["Full-Stack Applications", "Scalable APIs", "Cloud-Native Solutions"],
-  exploring: ["Microservices Architecture", "Containerization", "CI/CD Pipelines"]
-};
-```
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+  
+</div>
+
+---
+
 
 
 <div align="center">
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white
-
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
 </div>
 
+---
+
+## 🐍 Snake Animation
+
+![Snake animation](https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg)
+
+## 👁️ Profile Views
+
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadityamahekar%2Fadityamahekar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)
+
+---
+
+
+  **Thank you for visiting my profile!** Have a great day! 😊
+  
+</div>
 
 <div align="center">
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-
+  
+  ⭐️ From [adityamahekar](https://github.com/adityamahekar)
+  
 </div>
-
-<div align="center">
-https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/snake.svg
-
-</div>
-
-
-div align="center">
-https://komarev.com/ghpvc/?username=adityamahekar&color=blueviolet&style=flat-square
-
-</div>
-<div align="center">
