@@ -1,5 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center"> 👋 Hey there! I'm Aditya Mahekar<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
 
-# 👋 Hey there! I'm Aditya Mahekar
 
 <p align="center">
   <img src="./luffy.jpg" alt="Aditya" height="250" style="border-radius: 15px;" />
