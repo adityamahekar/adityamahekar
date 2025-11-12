@@ -21,7 +21,7 @@
 
 ---
 
-## My Resume:           [https://adityamahekar.github.io/Resume/](https://adityamahekar.github.io/Resume/)
+## My Resume:           [https://mahekar001aditya.github.io/Resume/](https://adityamahekar.github.io/Resume/)
 
 
 
