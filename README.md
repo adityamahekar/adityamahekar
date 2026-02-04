@@ -93,7 +93,7 @@
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahekar001aditya&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
   
 </div>
 
