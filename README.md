@@ -79,15 +79,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=adityamahekar&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
-  
-</div>
-
----
 
 ## 📈 Activity Graph
 
