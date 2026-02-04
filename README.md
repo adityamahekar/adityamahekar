@@ -110,8 +110,7 @@
 ---
 
 ## 🐍 Snake Animation
-![snake](https://raw.githubusercontent.com/adityamahekar/adityamahekar/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/adityamahekar/adityamahekar/blob/output/github-snake-dark.svg)
 
 ## 👁️ Profile Views
 
