@@ -12,7 +12,7 @@
 <div align="center">
   
 
-  [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)
+  [![GitHub followers](https://img.shields.io/github/followers/adityamahekar1.svg?style=social&label=Follow)](https://github.com/adityamahekar)
   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
 
@@ -69,11 +69,11 @@
 <div align="center">
   
   <a href="https://github.com/adityamahekar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamahekar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamahekar&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamaheka1r&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)
   
 </div>
 
@@ -116,6 +116,6 @@
 
 <div align="center">
   
-  ⭐️ From [adityamahekar](https://github.com/adityamahekar)
+  ⭐️ From [adityamahekar1](https://github.com/adityamahekar1)
   
 </div>
