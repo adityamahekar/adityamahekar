@@ -69,8 +69,8 @@
 <div align="center">
   
   <a href="https://github.com/adityamahekar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamahekar1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityamahekar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
@@ -116,6 +116,6 @@
 
 <div align="center">
   
-  ⭐️ From [adityamahekar1](https://github.com/adityamahekar)
+  ⭐️ From [adityamahekar](https://github.com/adityamahekar)
   
 </div>
