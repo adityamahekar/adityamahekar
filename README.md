@@ -73,7 +73,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamahekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
   </a>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=adityamahekar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 
@@ -103,12 +103,13 @@
 ## 🐍 Snake Animation
 ![snake gif](https://github.com/adityamahekar/adityamahekar/blob/output/github-snake-dark.svg)
 
-## 👁️ Profile Views
+## 👁️ Profile Views  
 
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadityamahekar%2Fadityamahekar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadityamahekar%2Fadityamahekar&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20Views&edge_flat=false"/>
+</p>
 
 ---
-
 
   **Thank you for visiting my profile!** Have a great day! 😊
   
