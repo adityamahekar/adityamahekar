@@ -24,6 +24,8 @@
 ### My Resume: [📄 View Resume (Google Drive)](https://drive.google.com/drive/folders/19aYPKYcX2Uwi5auFQ9-TOR5-myeCgDnV)
 
 ---
+## Connect with Me:
+
 * [Linkedin](https://www.linkedin.com/in/aditya-mahekar/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/profile/mahekaradb1n1)
 * [LeetCode](https://leetcode.com/u/aditya__mahekar/)
@@ -33,7 +35,6 @@
 * [codechef](https://www.codechef.com/users/basic_hero_37 )
 * [GitLabs](https://gitlab.com/adityamahekar)
 * [GitHub](https://github.com/adityamahekar)
-* 
 
  
 ## 🎯 About Me
