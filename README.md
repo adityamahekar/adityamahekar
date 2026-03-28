@@ -24,9 +24,18 @@
 ### My Resume: [📄 View Resume (Google Drive)](https://drive.google.com/drive/folders/19aYPKYcX2Uwi5auFQ9-TOR5-myeCgDnV)
 
 ---
+* [Linkedin](https://www.linkedin.com/in/aditya-mahekar/)
+* [GeeksforGeeks](https://www.geeksforgeeks.org/profile/mahekaradb1n1)
+* [LeetCode](https://leetcode.com/u/aditya__mahekar/)
+* [HackerRank](https://www.hackerrank.com/profile/mahekaraditya468)
+* [takeUforward](https://takeuforward.org/profile/aditya__mahekar)
+* [HackerEarth]()
+* [codechef](https://www.codechef.com/users/basic_hero_37 )
+* [GitLabs](https://gitlab.com/adityamahekar)
+* [GitHub](https://github.com/adityamahekar)
+* 
 
-
-
+ 
 ## 🎯 About Me
 
 🎓 **Computer Science Engineering** student at BMS Institute of Technology and Management  
