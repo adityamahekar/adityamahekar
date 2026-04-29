@@ -35,7 +35,7 @@
 * [codechef](https://www.codechef.com/users/basic_hero_37 )
 * [GitLabs](https://gitlab.com/adityamahekar)
 * [GitHub](https://github.com/adityamahekar)
-
+* [Medium](https://medium.com/@mahekaraditya468)
  
 ## 🎯 About Me
 
