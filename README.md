@@ -12,9 +12,11 @@
 <div align="center">
   
 
-  [![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
+[![GitHub followers](https://img.shields.io/github/followers/adityamahekar.svg?style=social&label=Follow)](https://github.com/adityamahekar)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-mahekar)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://adityamahekar.netlify.app/)
 
   
 </div>
