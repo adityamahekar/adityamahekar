@@ -23,7 +23,7 @@
 
 ---
 
-### My Resume: [📄 View Resume (Google Drive)](https://drive.google.com/drive/folders/19aYPKYcX2Uwi5auFQ9-TOR5-myeCgDnV)
+### My Resume: [📄 View Resume (Google Drive)](https://drive.google.com/file/d/1DiYqXELuHlm_SIf65ikqtNeMOT8pySGU/view?usp=sharing)
 
 ---
 ## Connect with Me:
