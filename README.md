@@ -23,7 +23,7 @@
 
 ---
 
-### [📄 View Resume](https://drive.google.com/file/d/1DiYqXELuHlm_SIf65ikqtNeMOT8pySGU/view?usp=sharing)
+### [📄Resume](https://drive.google.com/file/d/1DiYqXELuHlm_SIf65ikqtNeMOT8pySGU/view?usp=sharing)
 
 ---
 ## Connect with Me:
